@@ -1,0 +1,26 @@
+1) What is React JS?
+React is a JavaScript library for building user interfaces and event handling. It is maintained by Facebook and a community of individual developers and companies.
+
+2) Advantages of React JS?
+It is fast re-loading, optimization, performance.
+
+3) What is dom?
+No need for reload page, changed components gets updated.
+
+4) What is prop and state?
+Prop means properties,they are used to pass data from parent to child or by the component itself.
+State is used for mutable data, or data that will change. 
+
+5) What is components?
+Components are the building blocks of any React app.
+
+6) Types of components?
+- Class based => A class component requires you to extend from React.Component create a render function which returns a React element.
+- Functional components => A functional component is just a plain JavaScript function which accepts props as an argument and returns a React element.
+
+7) What are ReactJs lifecycle?
+Each component in React has a lifecycle which you can monitor and manipulate during its three main phases.
+The three phases are: Mounting, Updating, and Unmounting.
+
+8) What are Hooks?
+React Hooks are functions that let us hook into the React state and lifecycle features from function components. 

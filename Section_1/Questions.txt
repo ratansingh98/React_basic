@@ -24,3 +24,12 @@ The three phases are: Mounting, Updating, and Unmounting.
 
 8) What are Hooks?
 React Hooks are functions that let us hook into the React state and lifecycle features from function components. 
+
+9) What is socket.io?
+Socket.IO is a JavaScript library for realtime web applications. It enables realtime, bi-directional communication between web clients and servers.
+
+10) What is State Hook?
+It let use manage states and let us update using setter function.
+
+11) What is SetEffect?
+SetEffect is used to replace the lifecycle hooks such as componentDidMount, componentDidUpdate and componentWillUnmount.
